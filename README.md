@@ -4,9 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
-## I'm a University Student in Syiah Kuala University and Leader in Robotics Electrical Engineering Community (KROENG)
+## I'm a University Student in Syiah Kuala University and Leader in Robotics Electrical Engineering Community (KROENG) 2022
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about SCADA system
@@ -14,17 +13,16 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCOeyX0xIJKJaL7x7MELVZTg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCOeyX0xIJKJaL7x7MELVZTg#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCOeyX0xIJKJaL7x7MELVZTg #gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCOeyX0xIJKJaL7x7MELVZTg #gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/basyair07#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/basyair07#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/basyair07 #gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/basyair07 #gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/kanzaki_ahul#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/kanzaki_ahul#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/kanzaki_ahul #gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/kanzaki_ahul #gh-dark-mode-only)
 
 
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/basyair07
 [youtube]: https://www.youtube.com/channel/UCOeyX0xIJKJaL7x7MELVZTg
 [instagram]: https://instagram.com/kanzaki_ahul
