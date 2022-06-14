@@ -4,7 +4,7 @@
 [![Twitter follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser)](https://twitter.com/intent/follow?original_referer=https://github.com/basyair07&screen_name=basyair07)
 
 
-## I'm a University Student in Syiah Kuala University and Leader in Robotics Electrical Engineering Community (KROENG) 2022
+## I'm a University Student in Syiah Kuala University and Leader in Robotics Electrical Engineering Community (KROENG) 2022 - 2023
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
