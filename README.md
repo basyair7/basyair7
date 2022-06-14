@@ -1,7 +1,7 @@
 # Hi there, I'm Fathul Basyair   👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOeyX0xIJKJaL7x7MELVZTg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/basyai07?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/basyair07)
+[![Twitter Follow](https://img.shields.io/twitter/follow/basyai07?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=basyair07)
 
 
 ## I'm a University Student in Syiah Kuala University and Leader in Robotics Electrical Engineering Community (KROENG) 2022
