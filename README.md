@@ -29,3 +29,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=basyair7&show_icons=true&count_private=true&include_all_commits=true&count_private=true&layout=compact&theme=radical)](https://github.com/basyair7)
