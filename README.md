@@ -31,4 +31,4 @@
 [instagram]: https://instagram.com/kanzaki_ahul
 [linkedin]: https://https://www.linkedin.com/in/fathul-basyair07
 
-[![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=basyair&show_icons=true&count_private=true&include_all_commits=true&count_private=true&layout=compact&theme=radical)](https://github.com/basyair7)
+[![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=basyair7&show_icons=true&count_private=true&include_all_commits=true&count_private=true&layout=compact&theme=radical)](https://github.com/basyair7)
