@@ -3,7 +3,7 @@
 
 <br />
 
-<img align="right" src="./img/yoimiya.jpg" alt="yoimiya-chan" width="100%">
+<img align="right" src="./img/yoimiya.jpg" alt="yoimiya-chan" width="50%">
 <ul align="left">
     <li>🌱 I’m currently learning everything 🤣</li>
     <li>👯 I’m looking to collaborate with other content creators</li>
