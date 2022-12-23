@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./img/1260749.jpg" alt="yoimiya-chan" width="100%">
+</div>
+
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
 <h3 align="left">I'm a Student at Syiah Kuala University and I'm a Leader in Robotics Electrical Engineering Community (KROENG) 2022-2023</h3>
 
