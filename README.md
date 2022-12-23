@@ -5,8 +5,6 @@
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
 <h3 align="left">I'm a Student at Syiah Kuala University and I'm a Leader in Robotics Electrical Engineering Community (KROENG) 2022-2023</h3>
 
-<p align="left"> <a href="https://twitter.com/basyair07" target="blank"><img src="https://img.shields.io/twitter/follow/basyair07?logo=twitter&style=for-the-badge" alt="basyair07" /></a> </p>
-
 <br />
 
 <ul align="left">
