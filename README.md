@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/basyair07" target="blank"><img src="https://img.shields.io/twitter/follow/basyair07?logo=twitter&style=for-the-badge" alt="basyair07" /></a> </p>
 
-<p align="left">
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about SCADA system
-- ⚡ Fun fact: I love to play game, electrical design and playing violin
-</p>
+<ul align="left">
+    <li>🌱 I’m currently learning everything 🤣</li>
+    <li>👯 I’m looking to collaborate with other content creators</li>
+    <li>🥅 2022 Goals: Learn more about SCADA system</li>
+    <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
