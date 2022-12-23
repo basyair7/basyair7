@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/1260749.jpg" alt="yoimiya-chan" width="50%">
+    <img src="./img/1260749.jpg" alt="yoimiya-chan" width="80%">
 </div>
 
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
