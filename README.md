@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/fathul-basyair07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathul-basyair07" height="30" width="40" /></a>
 <a href="https://fb.com/basyair.fathul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basyair.fathul07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@basyair7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basyair7" height="30" width="40" /></a>
-<a href="https://discord.gg/Kanzaki Ahul#7889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kanzaki Ahul#7889" height="30" width="40" /></a>
+<a href="https://discord.gg/700723015360446564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kanzaki Ahul#7889" height="30" width="40" /></a>
 </p>
 
 <br />
