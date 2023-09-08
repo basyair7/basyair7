@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <div align="center">
-    <img style="@media (min-width: 800px){width: 75%} @media(min-width: 1025px){width: 50%}" src="./img/image-ping.jpg" alt="">
+    <img style="@media (min-width: 800px){width: 75%} @media(min-width: 1025px){width: 100%}" src="./img/image-ping.jpg" alt="">
 </div>
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
 <h3 align="left">I'm a Student at Syiah Kuala University and I'm a Leader in Robotics Electrical Engineering Community (KROENG) 2021-2022</h3>
