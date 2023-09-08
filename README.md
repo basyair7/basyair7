@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="@media screen and (max-width: 800px) {width: 50%}" src="./img/image-ping.jpg" alt="" width="75%">
+    <img style="@media screen and (max-width: 800px) {width: 75%}" src="./img/image-ping.jpg" alt="">
 </div>
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
 <h3 align="left">I'm a Student at Syiah Kuala University and I'm a Leader in Robotics Electrical Engineering Community (KROENG) 2021-2022</h3>
