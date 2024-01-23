@@ -32,7 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basyair7&show_icons=true&theme=dark&locale=en&layout=compact" alt="basyair7" /></p>
 
-<br />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basyair7&" alt="basyair7" /></p>
 
