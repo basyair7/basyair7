@@ -3,7 +3,9 @@
     <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
 </div>
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
-<h3 align="left">I'm a Student at Syiah Kuala University and I'm a Leader in Robotics Electrical Engineering Community (KROENG) 2021-2022</h3>
+<h3 align="left">
+I am a Syiah Kuala University Electrical Engineering graduate with a focus on Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods. I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript. I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid
+</h3>
 
 <br />
 
