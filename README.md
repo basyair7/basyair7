@@ -14,7 +14,7 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
     <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
 </ul> -->
 
-<table>
+<table border="0">
     <tbody>
         <tr>
             <td>
