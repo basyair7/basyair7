@@ -7,18 +7,17 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
 
 <br />
 
-<div align="left">
-    <ul align="left">
-        <li>🌱 I’m currently learning everything 🤣</li>
-        <li>👯 I’m looking to collaborate with other content creators</li>
-        <li>🥅 2023 Goals: Learn more about Fuzzy logic and SCADA system</li>
-        <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
-    </ul>
-</div>
+<ul align="left">
+    <li>🌱 I’m currently learning everything 🤣</li>
+    <li>👯 I’m looking to collaborate with other content creators</li>
+    <li>🥅 2023 Goals: Learn more about Fuzzy logic and SCADA system</li>
+    <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
+    <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="", align="right">
+</ul>
 
-<div align="right">
+<!-- <div align="right">
     <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
-</div>
+</div> -->
 
 <br />
 
