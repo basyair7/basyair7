@@ -16,9 +16,9 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
 
 <table border="0">
     <thead>
-        <description>
+        <th>
             <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="", align="right">
-        </description>
+        </th>
     </thead>
     <tbody>
         <tr>
