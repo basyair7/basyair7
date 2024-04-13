@@ -21,7 +21,7 @@
 </div> -->
 
 <div>
-    <table border="0" align="center">
+    <table border="0">
         <thead>
             <th>
                 <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
