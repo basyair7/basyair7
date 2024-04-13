@@ -14,7 +14,7 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
     <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
 </ul> -->
 
-<table border="0">
+<table border="0" align="center">
     <thead>
         <th>
             <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
