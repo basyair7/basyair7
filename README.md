@@ -1,7 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-<div align="center">
-    <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
-</div>
+
 <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
 <h3 align="left">
 I am a Syiah Kuala University Electrical Engineering graduate with a focus on Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods. I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript. I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid
@@ -15,6 +13,10 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
     <li>🥅 2023 Goals: Learn more about Fuzzy logic and SCADA system</li>
     <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
 </ul>
+
+<div align="right">
+    <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
+</div>
 
 <br />
 
