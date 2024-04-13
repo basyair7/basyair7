@@ -15,6 +15,11 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
 </ul> -->
 
 <table border="0">
+    <thead>
+        <description>
+            <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="", align="right">
+        </description>
+    </thead>
     <tbody>
         <tr>
             <td>
@@ -25,9 +30,9 @@ I am a Syiah Kuala University Electrical Engineering graduate with a focus on Po
                     <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
                 </ul>
             </td>
-            <td>
+            <!-- <td>
                 <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="", align="right">
-            </td>
+            </td> -->
         </tr>
     </tbody>
 </table>
