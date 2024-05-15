@@ -32,7 +32,7 @@
                 <td>
                     <ul>
                         <li>🌱 I’m currently learning everything 🤣</li>
-                        <li>👯 I’m looking to collaborate with other content creators</li>
+                        <li>👯 I’m looking to collaborate on anything interesting</li>
                         <li>🥅 2024 Goals: Learn more about Fuzzy logic, SCADA System, and Server IoT Industries</li>
                         <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
                     </ul>
