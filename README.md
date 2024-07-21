@@ -1,26 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <div>
-    <h1 align="left">Hi there 👋, I'm Fathul Basyair</h1>
-    <h3 align="left">
-    I am a fresh graduate from Electrical Engineering of Syiah Kuala University with a focus on Electrical Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods. I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript. I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid
-    </h3>
-</div>
-
-<br />
-
-<!-- <ul align="left">
-    <li>🌱 I’m currently learning everything 🤣</li>
-    <li>👯 I’m looking to collaborate on anything interesting</li>
-    <li>🥅 2023 Goals: Learn more about Fuzzy logic and SCADA system</li>
-    <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
-</ul> -->
-
-<!-- <div align="right">
-    <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="">
-</div> -->
-
-<div>
     <table border="0">
         <thead>
             <th>
@@ -31,32 +11,16 @@
             <tr>
                 <td>
                     <ul>
-                        <li>🌱 I’m currently learning everything 🤣</li>
                         <li>👯 I’m looking to collaborate on anything interesting</li>
                         <li>🥅 2024 Goals: Learn more about Fuzzy logic, SCADA System, and Server IoT Industries</li>
                         <li>⚡ Fun fact: I love to play game, electrical design and playing violin</li>
                     </ul>
                 </td>
-                <!-- <td>
-                    <img style="@media screen and (max-width: 800px){width: 75%}" src="./img/image-ping.jpg" alt="", align="right">
-                </td> -->
             </tr>
         </tbody>
     </table>
 </div>
 
-<br />
-
-<div>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://twitter.com/basyair07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basyair07" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/fathul-basyair07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathul-basyair07" height="30" width="40" /></a>
-        <a href="https://fb.com/basyair.fathul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basyair.fathul07" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/@basyair7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basyair7" height="30" width="40" /></a>
-        <a href="https://discord.com/users/1074373247925243974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kanzaki Ahul#7889" height="30" width="40" /></a>
-    </p>
-</div>
 <br />
 
 <div>
@@ -84,8 +48,9 @@
     </p>
 </div>
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basyair7&show_icons=true&theme=dark&locale=en&layout=compact" alt="basyair7" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basyair7&" alt="basyair7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basyair7&" alt="basyair7" /></p> -->
 
