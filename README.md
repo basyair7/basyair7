@@ -13,7 +13,7 @@
 
 ### IoT Boards:
 <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"></a>
-<a href="https://raspberrypi.com><img src="img/raspi-logo.png" alt="RaspberryPi" width="40" height="40"></a>
+<a href="https://raspberrypi.com"><img src="img/raspi-logo.png" alt="RaspberryPi" width="40" height="40"></a>
 
 ### Programming & Web Development:
 <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
