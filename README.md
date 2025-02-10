@@ -8,9 +8,9 @@
 ## Languages and Tools
 
 ### Operating Systems:
-<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/windows-10-seeklogo.eps" alt="Windows" width="60" height="60"></a>
-<a href="https://ubuntu.com"><img src="img/ubuntu-linux-l-seeklogo.eps" alt="Ubuntu" width="60" height="60"></a>
-<a href="https://www.raspberrypi.com/software/"><img src="/img/raspberry-pi-seeklogo.eps"></a>
+<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/windows-10-seeklogo.png" alt="Windows" width="60" height="60"></a>
+<a href="https://ubuntu.com"><img src="img/ubuntu-linux-l-seeklogo.png" alt="Ubuntu" width="60" height="60"></a>
+<a href="https://www.debian.org/"><img src="img/debian-seeklogo.svg"></a>
 
 ### IoT Boards:
 <a href="https://www.arduino.cc/"><img src="img/arduino-ide-seeklogo.svg" alt="Arduino" width="60" height="60"></a>
