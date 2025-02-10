@@ -8,14 +8,14 @@
 ## Languages and Tools
 
 ### Operating Systems:
-<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/windows-10-seeklogo.png" alt="Windows" width="180" height="60"></a>
-<a href="https://ubuntu.com"><img src="img/ubuntu-linux-l-seeklogo.png" alt="Ubuntu" width="150" height="60"></a>
+<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/windows-10-icon-seeklogo.png" alt="Windows" width="60" height="60"></a>
+<a href="https://ubuntu.com"><img src="img/ubuntu-seeklogo.svg" alt="Ubuntu" width="60" height="60"></a>
 <a href="https://www.debian.org/"><img src="img/debian-seeklogo.svg" alt="debian" width="60" height="60"></a>
 
 ### IoT Boards:
 <a href="https://www.arduino.cc/"><img src="img/arduino-ide-seeklogo.svg" alt="Arduino" width="60" height="60"></a>
 <a href="https://www.espressif.com/"><img src="img/espressif-systems-seeklogo.svg" width="60" height="60"></a>
-<a href="https://raspberrypi.com"><img src="img/raspi-logo.png" alt="RaspberryPi" width="60" height="60"></a>
+<a href="https://raspberrypi.com"><img src="img/raspberry-pi-seeklogo.svg" alt="RaspberryPi" width="60" height="60"></a>
 
 ### Programming & Web Development:
 <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"></a>
