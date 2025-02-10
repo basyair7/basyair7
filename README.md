@@ -8,11 +8,12 @@
 ## Languages and Tools
 
 ### Operating Systems:
-<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/Windows_logo.png" alt="Windows" width="60" height="60"></a>
-<a href="https://ubuntu.com"><img src="img/Ubuntu.png" alt="Ubuntu" width="60" height="60"></a>
+<a href="https://microsoft.com/en-us/software-download/windows10"><img src="img/windows-10-seeklogo.eps" alt="Windows" width="60" height="60"></a>
+<a href="https://ubuntu.com"><img src="img/ubuntu-linux-l-seeklogo.eps" alt="Ubuntu" width="60" height="60"></a>
+<a href="https://www.raspberrypi.com/software/"><img src="/img/raspberry-pi-seeklogo.eps"></a>
 
 ### IoT Boards:
-<a href="https://www.arduino.cc/"><img src="img/arduino.webp" alt="Arduino" width="60" height="60"></a>
+<a href="https://www.arduino.cc/"><img src="img/arduino-ide-seeklogo.svg" alt="Arduino" width="60" height="60"></a>
 <a href="https://www.espressif.com/"><img src="img/espressif-systems-seeklogo.svg" width="60" height="60"></a>
 <a href="https://raspberrypi.com"><img src="img/raspi-logo.png" alt="RaspberryPi" width="60" height="60"></a>
 
