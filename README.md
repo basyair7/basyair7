@@ -4,9 +4,9 @@
   <img src="img/image-ping.jpg" alt="Profile Picture" width="300">
 </p>
 
-### **👯 I’m looking to collaborate on anything interesting**  
-### **🥅 My Goals:** Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries  
-### **⚡ Fun fact:** I love playing games, designing electrical circuits, and playing the violin
+#### **👯 I’m looking to collaborate on anything interesting**  
+#### **🥅 My Goals:** Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries  
+#### **⚡ Fun fact:** I love playing games, designing electrical circuits, and playing the violin
 
 
 ## Languages and Tools
