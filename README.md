@@ -13,6 +13,7 @@
 
 ### IoT Boards:
 <a href="https://www.arduino.cc/"><img src="img/arduino.webp" alt="Arduino" width="60" height="60"></a>
+<a href="https://www.espressif.com/"><img src="img/espressif-systems-seeklogo.svg" width="60" height="60"></a>
 <a href="https://raspberrypi.com"><img src="img/raspi-logo.png" alt="RaspberryPi" width="60" height="60"></a>
 
 ### Programming & Web Development:
