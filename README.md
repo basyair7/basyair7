@@ -12,7 +12,7 @@
 <a href="https://ubuntu.com"><img src="img/Ubuntu.png" alt="Ubuntu" width="40" height="40"></a>
 
 ### IoT Boards:
-<a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"></a>
+<a href="https://www.arduino.cc/"><img src="img/arduino.webp" alt="Arduino" width="40" height="40"></a>
 <a href="https://raspberrypi.com"><img src="img/raspi-logo.png" alt="RaspberryPi" width="60" height="60"></a>
 
 ### Programming & Web Development:
