@@ -1,9 +1,9 @@
 ## About Me
 
-<table align="center" style="text-align: center;">
+<table style="text-align: center;">
   <tr>
     <td>
-      <img src="img/image-ping.jpg" alt="Profile Picture" width="150">
+      <img src="img/image-ping.jpg" align="center" alt="Profile Picture" width="150">
     </td>
   </tr>
   <tr>
