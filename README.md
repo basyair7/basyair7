@@ -1,19 +1,13 @@
 ## About Me
 
-<table style="text-align: center;">
-  <tr>
-    <td>
-      <img src="img/image-ping.jpg" align="center" alt="Profile Picture" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      👯 I’m looking to collaborate on anything interesting <br>
-      🥅 My Goals: Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries <br>
-      ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="img/image-ping.jpg" alt="Profile Picture" width="300">
+</p>
+
+**👯 I’m looking to collaborate on anything interesting**  
+**🥅 My Goals:** Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries  
+**⚡ Fun fact:** I love playing games, designing electrical circuits, and playing the violin
+
 
 ## Languages and Tools
 
