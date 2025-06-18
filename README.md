@@ -4,9 +4,12 @@
   <img src="img/image-ping.jpg" alt="Profile Picture" width="300">
 </p>
 
-#### 👯 I’m looking to collaborate on anything interesting (面白いプロジェクトでコラボできる仲間を探しています)
-#### 🥅 My Goals: Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries (目標：ファジィ論理（Fuzzy Logic）、SCADAシステム、IoTサーバー産業についてもっと学ぶこと) 
-#### ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin (豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！)
+#### 👯 I’m looking to collaborate on anything interesting 
+#### 👯 面白いプロジェクトでコラボできる仲間を探しています
+#### 🥅 My Goals: Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries 
+#### 🥅 目標：ファジィ論理（Fuzzy Logic）、SCADAシステム、IoTサーバー産業についてもっと学ぶこと
+#### ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin 
+#### ⚡豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
 
 ## Languages and Tools (使用技術とツール)
 
