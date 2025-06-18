@@ -8,7 +8,6 @@
 こんにちは！私の名前はファトゥル・バシャイルです。
 インドネシアノバンダアチェしゅしんです。
 </p>
-<br>
 
 #### 👯 I’m looking to collaborate on anything interesting 
 ####    面白いプロジェクトでコラボできる仲間を探しています
