@@ -8,6 +8,7 @@
 こんにちは！私の名前はファトゥル・バシャイルです。
 インドネシアノバンダアチェしゅしんです。
 </p>
+<br>
 
 #### 👯 I’m looking to collaborate on anything interesting 
 ####    面白いプロジェクトでコラボできる仲間を探しています
@@ -16,7 +17,8 @@
 #### ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin 
 ####    豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
 
-<p>どうぞよろしくお願いいたします。</p>
+<br>
+<p>どうぞよろしくお願いいたします🙏🏻。</p>
 
 ## Languages and Tools (使用技術とツール)
 
