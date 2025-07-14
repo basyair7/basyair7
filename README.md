@@ -6,15 +6,15 @@
 
 <p>
 こんにちは！私の名前はファトゥル・バシャイルです。
-インドネシアノバンダアチェしゅしんです。
+インドネシアのバンダアチェしゅしんです。
 </p>
 
 #### 👯 I’m looking to collaborate on anything interesting 
-####    面白いプロジェクトでコラボできる仲間を探しています
+#### ➔　面白いプロジェクトでコラボできる仲間を探しています
 #### 🥅 My Goals: Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries 
-####    目標：ファジィ論理（Fuzzy Logic）、SCADAシステム、IoTサーバー産業についてもっと学ぶこと
+#### ➔　目標：ファジィ論理（Fuzzy Logic）、SCADAシステム、IoTサーバー産業についてもっと学ぶこと
 #### ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin 
-####    豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
+#### ➔　豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
 
 <br>
 <p>どうぞよろしくお願いいたします🙏🏻。</p>
