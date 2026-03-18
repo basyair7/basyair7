@@ -14,7 +14,7 @@
 #### 🥅 My Goals: Learn more about Fuzzy Logic, SCADA Systems, and IoT Server Industries 
 #### ➔　目標：ファジィ論理（Fuzzy Logic）、SCADAシステム、IoTサーバー産業についてもっと学ぶこと
 #### ⚡ Fun fact: I love playing games, designing electrical circuits, and playing the violin 
-#### ➔　豆知識：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
+#### ➔　趣味：ゲームをすること、電気回路を設計すること、そしてバイオリンを弾くのが大好きです！
 
 <br>
 <p>どうぞよろしくお願いいたします🙏🏻。</p>
