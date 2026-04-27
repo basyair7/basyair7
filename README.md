@@ -6,7 +6,7 @@
 
 <p>
 こんちゃ！私はファトゥル・バシャイル申します。
-インドネシアのバンダアチェ出身です。
+インドネシアのバンダ・アチェ、アチェ州に住んでいる。
 </p>
 
 #### 👯 I’m looking to collaborate on anything interesting 
